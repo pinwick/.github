@@ -11,7 +11,6 @@
 ## Authors
 
 - [@veracitelol](https://www.github.com/veracitelol)
-
 ##
 
 
