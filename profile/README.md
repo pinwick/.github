@@ -16,7 +16,7 @@
 
 ## FYI
 
- -  this is just a test project made by @aidenchrist on discord
+ -  this is just a fun project made by @aidenchrist on discord
 
 
 ![Logo](https://r2.strap.lol/rip.png.PNG)
