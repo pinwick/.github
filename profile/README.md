@@ -11,7 +11,7 @@
 ## Authors
 
 - [@veracitelol](https://www.github.com/veracitelol)
-- [![Discord Presence](https://lanyard.cnrad.dev/api/1295320092455862275?bg=ff1c64&showDisplayName=true)](https://discord.com/users/1295320092455862275)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1295320092455862275?bg=ff1c64&showDisplayName=true)](https://discord.com/users/1295320092455862275)
 ##
 
 
